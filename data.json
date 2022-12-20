@@ -1,0 +1,48 @@
+{
+  "question": [
+    "Q1. Which methodology is used to performed Maintenance testing?",
+    "Q2. Which of the following is not part of the Test document?",
+    "Q3. Which term is used to define testing?",
+    "Q4. Which of the following is not a valid phase of SDLC ?",
+    "Q5. Which of the following testing is also known as white -box testing ?"
+  ],
+  "answer": [
+    1,
+    4,
+    1,
+    4,
+    1
+  ],
+  "options": [
+    [
+      "Breadth test and depth test",
+      "Confirmation testing",
+      "Retesting",
+      "Sanity testing"
+    ],
+    [
+      "Test Case",
+      "Requirements Traceability Matrix [RTM]",
+      "Test strategy",
+      "Project Initiation Note [PIN]"
+    ],
+    [
+      "Evaluating deliverable to find errors",
+      "Finding broken code",
+      "Astage of all projects",
+      "None of tha above"
+    ],
+    [
+      "Testing Phase",
+      "Requirment Phase",
+      "Deployment Phase",
+      "Testing closure"
+    ],["Structural Testing",
+      "Error guessing technique",
+      "Design based testing",
+      "none of the above"
+
+    ]
+
+  ]
+}

@@ -1,0 +1,10 @@
+1) Which methodology is used to performed Maintenance testing?  
+ 2) Which of the following is not part of the Test document?  
+3) Which term is used to define testing?  
+ 4) Which of the following is not a valid phase of SDLC ?  
+ 5) Which of the following testing is also known as white -box testing?  
+6) Which of the following testing is related to the boundary value analysis?  
+7) Functional testing is a ------ ?  
+8) What are the different levels of Testing?  
+9) Which of the following is not a part of STLC (Software Testing Life Cycle)?  
+10) Sanity testing is a ------ ? 

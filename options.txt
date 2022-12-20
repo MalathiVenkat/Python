@@ -1,0 +1,10 @@
+a) Breadth test and depth test b) Confirmation testing c) Retesting d) Sanity testing
+a) Test Case b) Requirements Traceability Matrix [RTM] c) Test strategy d) Project Initiation Note [PIN]
+a)Evaluating deliverable to find errors b)Finding broken code c) Astage of all projects d) None of tha above
+a)Testing Phase b) Requirment Phase c) Deployment Phase d)Testing closure
+a)Structural Testing b)Error guessing technique c) Design based testing d)none of the above
+a)white box and block box testing b)white-box testing c) block box testing d)non of the above
+a)Test design technique b) Test level c)SDLC Model d) Test type
+a)Integration Testing b)unit Testing c)System testing d)all of the above
+a)Testing planning b)Requirement Gathering c)Test Design d) testing closure
+a)Test type b) Test Execution level c) Test level d)test design technique
